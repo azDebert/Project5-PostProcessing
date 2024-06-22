@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\PostProcessingArea.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\2DPolygon_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Bloom_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Blur_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Burn_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Copy_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Distort_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\2DQuad_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GaussianBlurVertical_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GaussianBlur_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Gradient_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GreyNoise_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\HeatHaze_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Retro_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Spiral_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\TintedTexture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\BasicTransform_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\PixelLighting_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\PixelLighting_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Tint_pp.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Underwater_pp.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

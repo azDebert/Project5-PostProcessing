@@ -1,0 +1,45 @@
+﻿  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\2DPolygon_pp.cso
+D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Bloom_pp.hlsl(25,26-33): warning X3081: comma expression used where a vector constructor may have been intended
+D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Bloom_pp.hlsl(25,26-38): warning X3081: comma expression used where a vector constructor may have been intended
+D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Bloom_pp.hlsl(35,12-82): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Bloom_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Blur_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Burn_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Copy_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Distort_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\2DQuad_pp.cso
+D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GaussianBlurVertical_pp.hlsl(42,9): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GaussianBlurVertical_pp.cso
+D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GaussianBlur_pp.hlsl(41,9): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GaussianBlur_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Gradient_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\GreyNoise_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\HeatHaze_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Retro_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Spiral_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\TintedTexture_ps.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\BasicTransform_vs.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\PixelLighting_ps.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\PixelLighting_vs.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Tint_pp.cso
+  compilation object save succeeded; see D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\Underwater_pp.cso
+  Camera.cpp
+  Direct3DSetup.cpp
+  Main.cpp
+  CMatrix4x4.cpp
+  CVector2.cpp
+  CVector3.cpp
+  CVector4.cpp
+  Model.cpp
+  Scene.cpp
+  Shader.cpp
+  Mesh.cpp
+  State.cpp
+  Input.cpp
+  GraphicsHelpers.cpp
+  Timer.cpp
+  Generating Code...
+  PostProcessingArea.vcxproj -> D:\Assignments\3rd Year UCLAN\Maths n Tech\CO3303_Debert_A_PostProcessing\PostProcessingArea.exe
